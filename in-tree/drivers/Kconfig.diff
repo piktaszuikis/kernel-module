@@ -1,0 +1,13 @@
+Add 'source "drivers/labukas/Kconfig"' as last menu item.
+
+diff --git a/drivers/Kconfig b/drivers/Kconfig
+index e1e2066cecdb..345e8a0e6a59 100644
+--- a/drivers/Kconfig
++++ b/drivers/Kconfig
+@@ -202,4 +202,6 @@ source "drivers/hwtracing/intel_th/Kconfig"
+ 
+ source "drivers/fpga/Kconfig"
+ 
++source "drivers/labukas/Kconfig"
++
+ endmenu

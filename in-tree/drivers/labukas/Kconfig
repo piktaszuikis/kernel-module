@@ -1,0 +1,6 @@
+config LABAS_PASAULI_PVZ
+tristate "Labas pasauli pavyzdys"
+default m
+help
+  Modulis, kurį aktyvavus į logą išspausdinama žinutė "Labas pasauli!".
+  Modulio pavadinimas bus "labukas".
