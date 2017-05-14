@@ -1,9 +1,0 @@
-Add 'obj-y  labukas/' at the end of file.
-
-diff --git a/drivers/Makefile b/drivers/Makefile
-index 194d20bee7dc..428339cbcaa6 100644
---- a/drivers/Makefile
-+++ b/drivers/Makefile
-@@ -175,0 +176,2 @@ obj-$(CONFIG_FPGA)          += fpga/
-+
-+obj-y                          += labukas/

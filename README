@@ -1,6 +1,4 @@
-Just a simple hello-world example of linux kernel module. Module displays a message when loaded and another when unloaded.
-
-Module can be compiled either as in-tree of as out-of-tree.
+Just a simple example of linux kernel module that uses SPI interface for communication.
 More examples can be found in other branches.
 
-Full article: http://piktas-zuikis.netlify.com/2017/02/16/rasome-kernelio-moduli/
+Full article: https://piktas-zuikis.netlify.com/2017/05/13/spi-kernelio-modulis/

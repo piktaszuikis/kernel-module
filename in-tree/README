@@ -1,6 +1,0 @@
-Simple example of in-tree linux kernel module. Files are supposed to be copped on to linux sources except for .diff files, which should be applied to *drivers/Kconfig* and *drivers/Makefile*.
-After changes are made you can run 
-```make menuconfig```
-New config options will be visible in "Device Drivers" section.
-
-Full article is there: http://piktas-zuikis.netlify.com/2017/02/16/rasome-kernelio-moduli/#in-tree
