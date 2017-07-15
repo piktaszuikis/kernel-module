@@ -1,4 +1,4 @@
-Simple example of out-of-tree kernel module.
+Simple example of out-of-tree kernel module that uses timer and GPIO to blink an LED.
 Module should compile as long as you have linux-headers package installed.
 
-Full article: http://piktas-zuikis.netlify.com/2017/02/16/rasome-kernelio-moduli/#out-of-tree
+Full article: http://piktas-zuikis.netlify.com/2017/07/10/gpio-kernelio-modulis/
